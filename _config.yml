@@ -1,34 +1,34 @@
 # Site settings
-title: alecive
-email: alecive87@gmail.com
-url: https://alecive.github.io
-phone: +1 (203) 606-3896
-google-analytics-id: UA-80094809-1
-description: "Personal website of Alessandro Roncone, also known as alecive, Ph.D. in robotics engineering, computer scientist, interaction designer, father and runner."
-owner: Alessandro Roncone
-owner-title: Ph.D.
+title: Galan
+email: galanc3.3@gmail.com
+url: http://galanca.github.io
+phone: 713-392-1140
+#google-analytics-id: UA-80094809-1
+description: "Cesar Galan website is to document all projects and new ideas to add value to society"
+owner: Cesar Galan
+owner-title: B.S
 owner-job: Robotics Engineer
 
 # These should be put at the root of your website
 resume-link: AlessandroRoncone_resume.pdf
 cv-link: AlessandroRoncone_cv.pdf
-cv-image: /img/cv.jpg
+cv-image: /img/profile.jpg
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github-alt
-    url: http://github.com/alecive
+    url: http://github.com/galanCA
   - title: linkedin
-    url: https://www.linkedin.com/in/alessandroroncone
-  - title: graduation-cap
-    url: https://scholar.google.com/citations?user=nV-XGVIAAAAJ&hl
+    url: https://www.linkedin.com/in/cesaragalan
+  #- title: graduation-cap
+  #  url: https://scholar.google.com/citations?user=nV-XGVIAAAAJ&hl
   # - title: calendar-o
   #   url: https://calendar.google.com/calendar/embed?&bgcolor=%23FFFFFF&src=alecive87%40gmail.com&color=%232952A3&src=l5g5teoouu34et18910uckvkhg%40group.calendar.google.com&color=%23711616&src=06ovc3en5h9bad60rmtu87ru8c%40group.calendar.google.com&color=%235229A3&ctz=America%2FNew_York
 
 logo: /img/logo.svg
 
-banner: "I am looking for students!"
-banner-link: student_opportunities.html
+#banner: "I am looking for students!"
+#banner-link: student_opportunities.html
 
 # Postal address (add as many lines as necessary)
 address:
@@ -86,7 +86,7 @@ defaults:
     scope:
       path: "_posts/design"
     values:
-      category: "design"
+      category: "Projects"
   -
     scope:
       path: "_posts/blog"
