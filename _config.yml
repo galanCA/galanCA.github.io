@@ -12,7 +12,7 @@ owner-job: Robotics Engineer
 # These should be put at the root of your website
 resume-link: AlessandroRoncone_resume.pdf
 cv-link: AlessandroRoncone_cv.pdf
-cv-image: /img/profile.jpg
+cv-image: /img/profile.JPG
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -86,7 +86,7 @@ defaults:
     scope:
       path: "_posts/design"
     values:
-      category: "Projects"
+      category: "design"
   -
     scope:
       path: "_posts/blog"
