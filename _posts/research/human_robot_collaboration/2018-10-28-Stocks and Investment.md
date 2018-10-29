@@ -1,15 +1,32 @@
 ---
-title: "Situated HRC: predicting intent from grounded natural language"
-img: SituatedHRC.jpg
-img-thumb: SituatedHRC_thumb.jpg
+title: "Stock and Investment"
+img: bear_bull_market_thubnail.jpg
+img-thumb: bear_bull_market_thubnail.jpg
 alt: Situated-Human-Robot-Collaboration
 tags: [research,robotics,baxter,hri,human robot interaction,collaborative manufacturing,human robot collaboration,advanced manufacturing,open source,github]
-authors: Jake Brawer, Alessandro Roncone, Olivier Mangin, Sarah Widder,and Brian Scassellati
-submission: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2018), Madrid, Spain, October 1-5, 2018
-paper_pdf: "2018_Brawer_IROS_situated_hrc"
-paper_title: "Situated Human-Robot Collaboration: predicting intent from grounded natural language"
+authors: Cesar Galan
 double: yes
 ---
+
+
+This project was motivated after I started investing for about a year using apps like Stash and RobinHood. This apps are great to start investing for someone who does not have a lot of money to start and for that I am greatful. I have always had a dream to learn how to properly invest in the stock market and correctly manage my money. 
+
+In these app although it is simple to invest it is not so easy to view your progress over time. Thus I decided to create an application named [stock and finances](https://github.com/galanCA/Stocks-and-Investment) that can help me see the progress over time. This will be my first level of success for this project.
+
+The second level of success is to implement a screener based on some techniques that I learned by reading different books such as ** The Intelligent Investor** by Benjamin Graham. That way I can continuesly be looking for opportunities using fudamental analysis.
+
+The third level of success will be to create a machine learning algorithm that can help predict the stock market using technical analysis with at least 60% accuracy. I understand that some might think that it will be imposible since if it is. It will make you richer than your wildest dreams, but I enjoy working on hard or difficult projects.
+
+## Currrent Progress
+
+At this time the application can read all your portafolio and add all your investment to give you a percentage and total value return. Later on I would like to add the historical version of your portafolio in order to get a more accurate graph of the investments.
+
+## How to use it
+
+~~~python
+# Ticker:Number of shares:Amount Invested
+APPL:1:100
+~~~
 
 Research in human teamwork shows that a key element of fluid and fluent interactions is the interpretation of implicit verbal and non-verbal cues _in context_.
 This poses an issue to robotic platforms, as they work best when controlled through explicit commands that employ structured, unequivocal representations of the external world and their human partners.

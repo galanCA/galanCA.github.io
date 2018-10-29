@@ -4,10 +4,10 @@ email: galanc3.3@gmail.com
 url: http://galanca.github.io
 phone: 713-392-1140
 #google-analytics-id: UA-80094809-1
-description: "Cesar Galan website is to document all projects and new ideas to add value to society"
+description: "Cesar Galan is someone who enjoy to create things from nothing."
 owner: Cesar Galan
 owner-title: B.S
-owner-job: Robotics Engineer
+owner-job: Staff Engineer
 
 # These should be put at the root of your website
 resume-link: AlessandroRoncone_resume.pdf
@@ -20,6 +20,8 @@ social:
     url: http://github.com/galanCA
   - title: linkedin
     url: https://www.linkedin.com/in/cesaragalan
+  - title: instagram
+    url: "https://www.google.com"
   #- title: graduation-cap
   #  url: https://scholar.google.com/citations?user=nV-XGVIAAAAJ&hl
   # - title: calendar-o
