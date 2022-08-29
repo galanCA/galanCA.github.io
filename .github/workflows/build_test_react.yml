@@ -1,0 +1,14 @@
+name: build and test react app
+
+on: push
+
+jobs:
+  build-app:
+    name: build
+    runs-on: ubuntu-22.04
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - name: setup
+        uses: actions/checkout@v3
