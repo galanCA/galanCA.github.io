@@ -10,7 +10,11 @@ jobs:
       run:
         shell: bash
     steps:
+      - uses: actions/checkout@v3
       - name: Setup
-        uses: actions/checkout@v3
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+          cache: npm
       - name: Build project
         run: npm run build
